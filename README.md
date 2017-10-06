@@ -1,4 +1,4 @@
-# check-it
+# check-it!
 
 [![Build Status](https://travis-ci.org/DalekBaldwin/check-it.svg?branch=master)](https://travis-ci.org/DalekBaldwin/check-it)
 
